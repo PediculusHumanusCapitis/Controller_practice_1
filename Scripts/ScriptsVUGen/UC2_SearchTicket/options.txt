@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\ArtZay\Documents\GitHub\VUGen_practice_1\ScriptsVUGen\UC2_SearchTicket
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc2_searchticket\\logfile.log
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc2_searchticket\\combined_UC2_SearchTicket.c
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc2_searchticket\\pre_cci.c

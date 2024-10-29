@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\ArtZay\Documents\GitHub\VUGen_practice_1\ScriptsVUGen\UC6_RegistrationNewUsers
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc6_registrationnewusers\\logfile.log
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc6_registrationnewusers\\combined_UC6_RegistrationNewUsers.c
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc6_registrationnewusers\\pre_cci.c

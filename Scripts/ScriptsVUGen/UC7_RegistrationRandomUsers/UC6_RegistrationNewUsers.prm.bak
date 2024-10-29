@@ -1,0 +1,5 @@
+[parameter:RandomString]
+Format="%08s"
+OriginalValue=""
+ParamName="RandomString"
+Type="Host"

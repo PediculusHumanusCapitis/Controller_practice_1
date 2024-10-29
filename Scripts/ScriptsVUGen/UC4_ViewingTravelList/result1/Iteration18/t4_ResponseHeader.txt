@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sun, 27 Oct 2024 14:52:37 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Hermione&address2&Hogwarts&username&hermione&hash&37&lastName&Granger%0A&address1&Hogsmeade&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

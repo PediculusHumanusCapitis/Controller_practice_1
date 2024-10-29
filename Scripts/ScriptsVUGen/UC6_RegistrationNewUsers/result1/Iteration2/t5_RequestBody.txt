@@ -1,0 +1,2 @@
+"username=harrypotter&password=alohomora&passwordConfirm=alohomora&firstName=Harry&lastName=Pot"
+"ter&address1=Privet+Drive&address2=Little+Whinging&register.x=58&register.y=3"

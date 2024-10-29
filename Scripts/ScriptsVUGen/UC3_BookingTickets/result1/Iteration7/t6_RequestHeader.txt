@@ -1,0 +1,15 @@
+GET /cgi-bin/welcome.pl?page=search HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home
+Sec-Fetch-Mode: navigate
+Priority: u=4
+Sec-Fetch-Dest: frame
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1730207971; MTUserInfo=firstName&Bruce&address2&Gotham&username&batman&hash&78&lastName&Wayne%0A&address1&Wayne%20Manor&creditCard&&expDate&%0A
+

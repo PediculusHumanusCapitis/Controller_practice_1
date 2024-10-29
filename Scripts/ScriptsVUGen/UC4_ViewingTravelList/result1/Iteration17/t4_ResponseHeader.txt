@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sun, 27 Oct 2024 14:52:35 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Samus&address2&Galactic%20Federation&username&samus&hash&83&lastName&Aran%0A&address1&Space%20Colony&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

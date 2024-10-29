@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IF:\Git\Controller_practice_1\Scripts\ScriptsVUGen\UC1_LoginLogout
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ef:\git\controller_practice_1\scripts\scriptsvugen\uc1_loginlogout\\logfile.log
+f:\git\controller_practice_1\scripts\scriptsvugen\uc1_loginlogout\\combined_UC1_LoginLogout.c
+f:\git\controller_practice_1\scripts\scriptsvugen\uc1_loginlogout\\pre_cci.c

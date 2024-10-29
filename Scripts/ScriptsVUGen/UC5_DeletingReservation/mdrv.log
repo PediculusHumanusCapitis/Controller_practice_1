@@ -1,0 +1,330 @@
+Action.c(94):     <TR bgcolor="#EFF2F7">\n
+Action.c(94):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(94):     <b>\n
+Action.c(94):     <label><input type="checkbox" name="7" value="on" /></label></font></b>\n
+Action.c(94):     <input type="hidden" name="flightID" value="41183078-5429-GR"  />\n
+Action.c(94):       </TD>\n
+Action.c(94):       <TD width="45%" valign="top">\n
+Action.c(94):           <b>&nbsp;&nbsp;5 Coach class tickets for :</b><br/>\n
+Action.c(94):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(94):           <li><i>Geralt Rivian      <li><i>Frodo Baggins      <li><i>Harry Potter      <li><i>
+Action.c(94):     Harry Potter      <li><i>Goku Saiyan\n
+Action.c(94):           <li><i></i>\n
+Action.c(94):           </td></tr></table></center>\n
+Action.c(94):       </TD>\n
+Action.c(94):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(94):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(94):           <center>\n
+Action.c(94):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(94):               Geralt Rivian\n
+Action.c(94):     <br/>\n
+Action.c(94):               White Orchard<br/>\n
+Action.c(94):               Velen<br/>\n
+Action.c(94):               <br/>\n
+Action.c(94):               Total Charge: $ 585 <BR/> (CC: x-1111)\n
+Action.c(94):           </td> </tr> </table>\n
+Action.c(94):           </center>\n
+Action.c(94):       </TD>\n
+Action.c(94):     </TR>\n
+Action.c(94):     <TR bgcolor="#EFF2F7">\n
+Action.c(94):       <TD COLSPAN="3">\n
+Action.c(94):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(94):       10/29/2024\n
+Action.c(94):      :  11pm : Flight 943 leaves Zurich  for Paris.<br>  </center>\n
+Action.c(94):       </TD>\n
+Action.c(94):     </TR>\n
+Action.c(94):     \n
+Action.c(94):     <TR bgcolor="#EFF2F7">\n
+Action.c(94):       <TD COLSPAN="4">\n
+Action.c(94):       <hr/>\n
+Action.c(94):       </TD>\n
+Action.c(94):     </TR>\n
+Action.c(94):     \n
+Action.c(94):     <!-- Flight #1 -->\n
+Action.c(94):     <TR bgcolor="#EFF2F7">\n
+Action.c(94):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(94):     <b>\n
+Action.c(94):     <label><input type="checkbox" name="8" value="on" /></label></font></b>\n
+Action.c(94):     <input type="hidden" name="flightID" value="411804860-61822-GR"  />\n
+Action.c(94):       </TD>\n
+Action.c(94):       <TD width="45%" valign="top">\n
+Action.c(94):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+Action.c(94):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(94):           <li><i>Geralt Rivian      <li><i>Rick Sanchez      <li><i>John Doe\n
+Action.c(94):           <li><i></i>\n
+Action.c(94):           </td></tr></table></center>\n
+Action.c(94):       </TD>\n
+Action.c(94):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(94):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(94):           <center>\n
+Action.c(94):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(94):               Geralt Rivian\n
+Action.c(94):     <br/>\n
+Action.c(94):               White Orchard<br/>\n
+Action.c(94):               Velen<br/>\n
+Action.c(94):               <br/>\n
+Action.c(94):               Total Charge: $ 3690 <BR/> (CC: x-1111)\n
+Action.c(94):           </td> </tr> </table>\n
+Action.c(94):           </center>\n
+Action.c(94):       </TD>\n
+Action.c(94):     </TR>\n
+Action.c(94):     <TR bgcolor="#EFF2F7">\n
+Action.c(94):       <TD COLSPAN="3">\n
+Action.c(94):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(94):       10/30/2024\n
+Action.c(94):      :  11pm : Flight 873 leaves Sydney  for Seattle.<br>  </center>\n
+Action.c(94):       </TD>\n
+Action.c(94):     </TR>\n
+Action.c(94):     \n
+Action.c(94):     <TR bgcolor="#EFF2F7">\n
+Action.c(94):       <TD COLSPAN="4">\n
+Action.c(94):       <hr/>\n
+Action.c(94):       </TD>\n
+Action.c(94):     </TR>\n
+Action.c(94):     <TR>\n
+Action.c(94):        <TD align="center" COLSPAN="4">\n
+Action.c(94):        <b>A total of 8 scheduled flights.</font></b>\n
+Action.c(94):        </TD>\n
+Action.c(94):     </TR>\n
+Action.c(94):     </TABLE>\n
+Action.c(94):     \n
+Action.c(94):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+Action.c(94):     <TR>\n
+Action.c(94):     <TD align="left" width="50%" >\n
+Action.c(94):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+Action.c(94):     er="0" /></TD>\n
+Action.c(94):     <TD align="right" width="50%" >\n
+Action.c(94):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+Action.c(94):     f" border="0" /></TD>\n
+Action.c(94):     </TABLE>\n
+Action.c(94):     \n
+Action.c(94):     <div><input type="hidden" name=".cgifields" value="6"  /><input type="hidden" name=".cgifi
+Action.c(94):     elds" value="3"  /><input type="hidden" name=".cgifields" value="7"  /><input type="hidden
+Action.c(94):     " name=".cgifields" value="2"  /><input type="hidden" name=".cgifields" value="8"  /><inpu
+Action.c(94):     t type="hidden" name=".cgifields" value="1"  /><input type="hidden" name=".cgifields" valu
+Action.c(94):     e="4"  /><input type="hidden" name=".cgifields" value="5"  /></div></form>\n
+Action.c(94):     \n
+Action.c(94):     </center>\n
+Action.c(94):     \n
+Action.c(94):     </body>\n
+Action.c(94):     </html>
+Action.c(94): Resource "http://localhost:1080/WebTours/images/cancelreservation.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(94): Resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(94): t=30511ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+Action.c(94): Registered web_reg_find successful for "Text=<b>A total of 9 scheduled flights."  	[MsgId: MMSG-26362]
+Action.c(94): Registered web_reg_find successful for "Text=>Itinerary<" (count=1)  	[MsgId: MMSG-26364]
+Action.c(94): web_custom_request("itinerary.pl") was successful, 11234 body bytes, 255 header bytes, 27 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(105): Notify: Transaction "delete_reservation" ended with a "Pass" status (Duration: 0.9172 Wasted Time: 0.0350).
+..\\..\\Transactions\\common_lib.h(114): Notify: Transaction "logout" started.
+..\\..\\Transactions\\common_lib.h(116): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+..\\..\\Transactions\\common_lib.h(116): An unrecognized header ("Sec-Fetch-User") is being added  	[MsgId: MMSG-26595]
+..\\..\\Transactions\\common_lib.h(116): "Sec-Fetch-User: ?1" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+..\\..\\Transactions\\common_lib.h(116): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+..\\..\\Transactions\\common_lib.h(119): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
+..\\..\\Transactions\\common_lib.h(119): t=30598ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\..\\Transactions\\common_lib.h(119): t=30598ms: 661-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=298)
+..\\..\\Transactions\\common_lib.h(119):     GET /cgi-bin/welcome.pl?signOff=1 HTTP/1.1\r\n
+..\\..\\Transactions\\common_lib.h(119):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights\r\n
+..\\..\\Transactions\\common_lib.h(119):     Sec-Fetch-User: ?1\r\n
+..\\..\\Transactions\\common_lib.h(119):     Sec-Fetch-Mode: navigate\r\n
+..\\..\\Transactions\\common_lib.h(119):     Priority: u=4\r\n
+..\\..\\Transactions\\common_lib.h(119):     Sec-Fetch-Dest: frame\r\n
+..\\..\\Transactions\\common_lib.h(119):     Sec-Fetch-Site: same-origin\r\n
+..\\..\\Transactions\\common_lib.h(119):     Upgrade-Insecure-Requests: 1\r\n
+..\\..\\Transactions\\common_lib.h(119):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130
+..\\..\\Transactions\\common_lib.h(119):     .0\r\n
+..\\..\\Transactions\\common_lib.h(119):     Accept-Encoding: gzip, deflate\r\n
+..\\..\\Transactions\\common_lib.h(119):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\..\\Transactions\\common_lib.h(119):     Accept: */*\r\n
+..\\..\\Transactions\\common_lib.h(119):     Connection: Keep-Alive\r\n
+..\\..\\Transactions\\common_lib.h(119):     Host: localhost:1080\r\n
+..\\..\\Transactions\\common_lib.h(119):     Cookie: MSO=SID&1730208260; MTUserInfo=firstName&Geralt&address2&Velen&username&geralt&has
+..\\..\\Transactions\\common_lib.h(119):     h&116&lastName&Rivian%0A&address1&White%20Orchard&creditCard&&expDate&%0A\r\n
+..\\..\\Transactions\\common_lib.h(119):     \r\n
+..\\..\\Transactions\\common_lib.h(119): t=30682ms: 327-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=298)
+..\\..\\Transactions\\common_lib.h(119):     HTTP/1.1 200 OK\r\n
+..\\..\\Transactions\\common_lib.h(119):     Date: Tue, 29 Oct 2024 13:24:22 GMT\r\n
+..\\..\\Transactions\\common_lib.h(119):     Server: Apache/2.2.21 (Win32)\r\n
+..\\..\\Transactions\\common_lib.h(119):     Set-Cookie: MSO=SID&1730208262; path=/\r\n
+..\\..\\Transactions\\common_lib.h(119):     Set-Cookie: MTUserInfo=; path=/; expires=Mon, 28-Oct-2024 13:24:22 GMT\r\n
+..\\..\\Transactions\\common_lib.h(119):     Keep-Alive: timeout=5, max=90\r\n
+..\\..\\Transactions\\common_lib.h(119):     Connection: Keep-Alive\r\n
+..\\..\\Transactions\\common_lib.h(119):     Transfer-Encoding: chunked\r\n
+..\\..\\Transactions\\common_lib.h(119):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\..\\Transactions\\common_lib.h(119):     \r\n
+..\\..\\Transactions\\common_lib.h(119): t=30686ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=298)
+..\\..\\Transactions\\common_lib.h(119):     2ae\r\n
+..\\..\\Transactions\\common_lib.h(119): t=30686ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=298)
+..\\..\\Transactions\\common_lib.h(119):     \r\n
+..\\..\\Transactions\\common_lib.h(119): t=30687ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=298)
+..\\..\\Transactions\\common_lib.h(119):     <!-- \n
+..\\..\\Transactions\\common_lib.h(119):      A Session ID has been created and loaded into a cookie called MSO.\n
+..\\..\\Transactions\\common_lib.h(119):      Also, the server options have been loaded into the cookie called\n
+..\\..\\Transactions\\common_lib.h(119):      MSO as well.  The server options can be set via the Admin page.\n
+..\\..\\Transactions\\common_lib.h(119):      --->\n
+..\\..\\Transactions\\common_lib.h(119):     \n
+..\\..\\Transactions\\common_lib.h(119):     <html>\n
+..\\..\\Transactions\\common_lib.h(119):     <title>Web Tours</title>\n
+..\\..\\Transactions\\common_lib.h(119):        <!-- Frame Set -->\n
+..\\..\\Transactions\\common_lib.h(119):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\..\\Transactions\\common_lib.h(119):           <!-- Navigation Frame -->\n
+..\\..\\Transactions\\common_lib.h(119):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+..\\..\\Transactions\\common_lib.h(119):                 noresize="noresize" scrolling="auto"/>\n
+..\\..\\Transactions\\common_lib.h(119):           <!-- Home Frame -->\n
+..\\..\\Transactions\\common_lib.h(119):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+..\\..\\Transactions\\common_lib.h(119):                 noresize="noresize" scrolling="auto"/>\n
+..\\..\\Transactions\\common_lib.h(119):        </frameset>\n
+..\\..\\Transactions\\common_lib.h(119):     </html>\n
+..\\..\\Transactions\\common_lib.h(119):     \n
+..\\..\\Transactions\\common_lib.h(119):     </body>\n
+..\\..\\Transactions\\common_lib.h(119):     </html>
+..\\..\\Transactions\\common_lib.h(119): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\..\\Transactions\\common_lib.h(119): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\..\\Transactions\\common_lib.h(119): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+..\\..\\Transactions\\common_lib.h(119): t=30690ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=300)
+..\\..\\Transactions\\common_lib.h(119):     <HTML>\n
+..\\..\\Transactions\\common_lib.h(119):     <HEAD>\n
+..\\..\\Transactions\\common_lib.h(119):     \t<title>Web Tours</title>\n
+..\\..\\Transactions\\common_lib.h(119):     </HEAD>\n
+..\\..\\Transactions\\common_lib.h(119):     <style>\n
+..\\..\\Transactions\\common_lib.h(119):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\..\\Transactions\\common_lib.h(119):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+..\\..\\Transactions\\common_lib.h(119):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\..\\Transactions\\common_lib.h(119):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\..\\Transactions\\common_lib.h(119):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\..\\Transactions\\common_lib.h(119):     N: none}\n
+..\\..\\Transactions\\common_lib.h(119):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\..\\Transactions\\common_lib.h(119):     CORATION: underline}\n
+..\\..\\Transactions\\common_lib.h(119):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\..\\Transactions\\common_lib.h(119):     </style>\n
+..\\..\\Transactions\\common_lib.h(119):     <body bgcolor="#e0e7f1">\n
+..\\..\\Transactions\\common_lib.h(119):     <BR/>\n
+..\\..\\Transactions\\common_lib.h(119):     <BR/>\n
+..\\..\\Transactions\\common_lib.h(119):     <BR/>\n
+..\\..\\Transactions\\common_lib.h(119):     <br/>\n
+..\\..\\Transactions\\common_lib.h(119):     <table border="0">\n
+..\\..\\Transactions\\common_lib.h(119):     <tr><td></td></tr>\n
+..\\..\\Transactions\\common_lib.h(119):     <TR><TD></TD></TR>\n
+..\\..\\Transactions\\common_lib.h(119):     <TR><TD>\n
+..\\..\\Transactions\\common_lib.h(119):     <blockquote>\n
+..\\..\\Transactions\\common_lib.h(119):     <H1><b>Web Tours</b></H1>\n
+..\\..\\Transactions\\common_lib.h(119):     Welcome to the Web Tours site.\n
+..\\..\\Transactions\\common_lib.h(119):     <br/>\n
+..\\..\\Transactions\\common_lib.h(119):     To make reservations,please enter your account information to the left.\n
+..\\..\\Transactions\\common_lib.h(119):     <br/>\n
+..\\..\\Transactions\\common_lib.h(119):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+..\\..\\Transactions\\common_lib.h(119):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+..\\..\\Transactions\\common_lib.h(119):     <br/>\n
+..\\..\\Transactions\\common_lib.h(119):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+..\\..\\Transactions\\common_lib.h(119):     tration</b></A> link.\n
+..\\..\\Transactions\\common_lib.h(119):     <br/><br/><br/><br/><br/><br/>\n
+..\\..\\Transactions\\common_lib.h(119):     <br/><small>\n
+..\\..\\Transactions\\common_lib.h(119):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+..\\..\\Transactions\\common_lib.h(119):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+..\\..\\Transactions\\common_lib.h(119):     </small>\n
+..\\..\\Transactions\\common_lib.h(119):     </blockquote></TD>\n
+..\\..\\Transactions\\common_lib.h(119):     <TD></TD></TR>\n
+..\\..\\Transactions\\common_lib.h(119):     </table>\n
+..\\..\\Transactions\\common_lib.h(119):     </body>\n
+..\\..\\Transactions\\common_lib.h(119):     </HTML>\n
+..\\..\\Transactions\\common_lib.h(119): t=30697ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=298)
+..\\..\\Transactions\\common_lib.h(119):     0\r\n
+..\\..\\Transactions\\common_lib.h(119):     \r\n
+..\\..\\Transactions\\common_lib.h(119): t=30699ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26000]
+..\\..\\Transactions\\common_lib.h(119): t=30701ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\..\\Transactions\\common_lib.h(119): t=30701ms: 511-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=299)
+..\\..\\Transactions\\common_lib.h(119):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+..\\..\\Transactions\\common_lib.h(119):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=1\r\n
+..\\..\\Transactions\\common_lib.h(119):     Sec-Fetch-User: ?1\r\n
+..\\..\\Transactions\\common_lib.h(119):     Sec-Fetch-Mode: navigate\r\n
+..\\..\\Transactions\\common_lib.h(119):     Priority: u=4\r\n
+..\\..\\Transactions\\common_lib.h(119):     Sec-Fetch-Dest: frame\r\n
+..\\..\\Transactions\\common_lib.h(119):     Sec-Fetch-Site: same-origin\r\n
+..\\..\\Transactions\\common_lib.h(119):     Upgrade-Insecure-Requests: 1\r\n
+..\\..\\Transactions\\common_lib.h(119):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130
+..\\..\\Transactions\\common_lib.h(119):     .0\r\n
+..\\..\\Transactions\\common_lib.h(119):     Accept-Encoding: gzip, deflate\r\n
+..\\..\\Transactions\\common_lib.h(119):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\..\\Transactions\\common_lib.h(119):     Accept: */*\r\n
+..\\..\\Transactions\\common_lib.h(119):     Connection: Keep-Alive\r\n
+..\\..\\Transactions\\common_lib.h(119):     Host: localhost:1080\r\n
+..\\..\\Transactions\\common_lib.h(119):     Cookie: MSO=SID&1730208262\r\n
+..\\..\\Transactions\\common_lib.h(119):     \r\n
+..\\..\\Transactions\\common_lib.h(119): t=30784ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=299)
+..\\..\\Transactions\\common_lib.h(119):     HTTP/1.1 200 OK\r\n
+..\\..\\Transactions\\common_lib.h(119):     Date: Tue, 29 Oct 2024 13:24:22 GMT\r\n
+..\\..\\Transactions\\common_lib.h(119):     Server: Apache/2.2.21 (Win32)\r\n
+..\\..\\Transactions\\common_lib.h(119):     Expires: Mon, 28 Oct 2024 13:24:22 GMT\r\n
+..\\..\\Transactions\\common_lib.h(119):     Keep-Alive: timeout=5, max=93\r\n
+..\\..\\Transactions\\common_lib.h(119):     Connection: Keep-Alive\r\n
+..\\..\\Transactions\\common_lib.h(119):     Transfer-Encoding: chunked\r\n
+..\\..\\Transactions\\common_lib.h(119):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\..\\Transactions\\common_lib.h(119):     \r\n
+..\\..\\Transactions\\common_lib.h(119): t=30785ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=299)
+..\\..\\Transactions\\common_lib.h(119):     5d1\r\n
+..\\..\\Transactions\\common_lib.h(119): t=30785ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=299)
+..\\..\\Transactions\\common_lib.h(119):     \r\n
+..\\..\\Transactions\\common_lib.h(119): t=30786ms: 1489-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=299)
+..\\..\\Transactions\\common_lib.h(119):     <!DOCTYPE html\n
+..\\..\\Transactions\\common_lib.h(119):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\..\\Transactions\\common_lib.h(119):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\..\\Transactions\\common_lib.h(119):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\..\\Transactions\\common_lib.h(119):     <head>\n
+..\\..\\Transactions\\common_lib.h(119):     <title>Web Tours Navigation Bar</title>\n
+..\\..\\Transactions\\common_lib.h(119):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\..\\Transactions\\common_lib.h(119):     </head>\n
+..\\..\\Transactions\\common_lib.h(119):     <body bgcolor="#E0E7F1">\n
+..\\..\\Transactions\\common_lib.h(119):     <style>\n
+..\\..\\Transactions\\common_lib.h(119):     blockquote {font-family: tahoma; font-size : 10pt}\n
+..\\..\\Transactions\\common_lib.h(119):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\..\\Transactions\\common_lib.h(119):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\..\\Transactions\\common_lib.h(119):     small {font-family: tahoma; font-size : 8pt}\n
+..\\..\\Transactions\\common_lib.h(119):     </style>\n
+..\\..\\Transactions\\common_lib.h(119):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+..\\..\\Transactions\\common_lib.h(119):     <input type="hidden" name="userSession" value="140154.577723775HcAQcAVpAQVzzzzHtDcffpcAzff
+..\\..\\Transactions\\common_lib.h(119):     "/>\n
+..\\..\\Transactions\\common_lib.h(119):     <table border="0"><tr><td>&nbsp;</td>\n
+..\\..\\Transactions\\common_lib.h(119):     <td>&nbsp;</td></tr>\n
+..\\..\\Transactions\\common_lib.h(119):     <tr><td>&nbsp;</td>\n
+..\\..\\Transactions\\common_lib.h(119):     <td>&nbsp;</td></tr>\n
+..\\..\\Transactions\\common_lib.h(119):     <tr><td>&nbsp;</td>\n
+..\\..\\Transactions\\common_lib.h(119):     <td><small>&nbsp;Username</small></td></tr>\n
+..\\..\\Transactions\\common_lib.h(119):     <tr><td>&nbsp;</td>\n
+..\\..\\Transactions\\common_lib.h(119):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+..\\..\\Transactions\\common_lib.h(119):     <tr><td>&nbsp;</td>\n
+..\\..\\Transactions\\common_lib.h(119):     <td><small>&nbsp;Password</small></td>\n
+..\\..\\Transactions\\common_lib.h(119):     <tr><td>&nbsp;</td>\n
+..\\..\\Transactions\\common_lib.h(119):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+..\\..\\Transactions\\common_lib.h(119):     <tr><td>&nbsp;</td>\n
+..\\..\\Transactions\\common_lib.h(119):     <td>&nbsp;</td></tr>\n
+..\\..\\Transactions\\common_lib.h(119):     <tr><td>&nbsp;</td>\n
+..\\..\\Transactions\\common_lib.h(119):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+..\\..\\Transactions\\common_lib.h(119):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+..\\..\\Transactions\\common_lib.h(119):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+..\\..\\Transactions\\common_lib.h(119):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+..\\..\\Transactions\\common_lib.h(119):     </form>\n
+..\\..\\Transactions\\common_lib.h(119):     \n
+..\\..\\Transactions\\common_lib.h(119):     </body>\n
+..\\..\\Transactions\\common_lib.h(119):     </html>\n
+..\\..\\Transactions\\common_lib.h(119): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\..\\Transactions\\common_lib.h(119): t=30790ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=299)
+..\\..\\Transactions\\common_lib.h(119):     0\r\n
+..\\..\\Transactions\\common_lib.h(119):     \r\n
+..\\..\\Transactions\\common_lib.h(119): t=30790ms: Request done "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26000]
+..\\..\\Transactions\\common_lib.h(119): web_url("SignOff Button") was successful, 2175 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\..\\Transactions\\common_lib.h(129): Notify: Transaction "logout" ended with a "Pass" status (Duration: 0,2526 Wasted Time: 0,0341).
+Action.c(109): Notify: Transaction "UC5_DeletingReservation" ended with a "Pass" status (Duration: 2,6243 Wasted Time: 0,2552).
+Ending action Action.
+Ending iteration 10.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+t=30878ms: Closed connection [0] to localhost:1080 after completing 11 request(s)  	[MsgId: MMSG-26000]
+t=30878ms: Closed connection [1] to localhost:1080 after completing 8 request(s)  	[MsgId: MMSG-26000]
+t=30878ms: Closed connection [2] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+t=30879ms: Closed connection [3] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+t=30879ms: Closed connection [4] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+t=30879ms: Closed connection [5] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 15504), ended OK."

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\ArtZay\Documents\GitHub\VUGen_practice_1\ScriptsVUGen\UC7_RegistrationRandomUsers
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc7_registrationrandomusers\\logfile.log
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc7_registrationrandomusers\\combined_UC7_RegistrationRandomUsers.c
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc7_registrationrandomusers\\pre_cci.c

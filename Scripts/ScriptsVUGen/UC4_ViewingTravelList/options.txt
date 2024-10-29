@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\ArtZay\Documents\GitHub\VUGen_practice_1\ScriptsVUGen\UC4_ViewingTravelList
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc4_viewingtravellist\\logfile.log
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc4_viewingtravellist\\combined_UC4_ViewingTravelList.c
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc4_viewingtravellist\\pre_cci.c

@@ -1,0 +1,2 @@
+"username=dragonborn&password=dovahkiin&passwordConfirm=dovahkiin&firstName=Dragonborn&lastName"
+"=Targaryen&address1=Throat+of+the+World&address2=Whiterun&register.x=58&register.y=3"

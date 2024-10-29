@@ -1,0 +1,16 @@
+GET /cgi-bin/welcome.pl?signOff=1 HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights
+Sec-Fetch-User: ?1
+Sec-Fetch-Mode: navigate
+Priority: u=4
+Sec-Fetch-Dest: frame
+Sec-Fetch-Site: same-origin
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1730207964; MTUserInfo=firstName&Lara&username&lara&address2&Surrey&hash&33&address1&Croft%20Manor&lastName&Croft%0A
+

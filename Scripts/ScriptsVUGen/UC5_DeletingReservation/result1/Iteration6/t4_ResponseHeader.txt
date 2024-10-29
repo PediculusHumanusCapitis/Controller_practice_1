@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Tue, 29 Oct 2024 13:24:07 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Lara&address2&Surrey&username&lara&hash&33&lastName&Croft%0A&address1&Croft%20Manor&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

@@ -1,0 +1,5 @@
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc4_viewingtravellist\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:46: warning: unrecognized character escape sequence `\.'
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc4_viewingtravellist\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:48: warning: unrecognized character escape sequence `\='
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc4_viewingtravellist\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:78: warning: missing return value
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc4_viewingtravellist\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:114: warning: missing return value
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc4_viewingtravellist\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:135: warning: missing return value

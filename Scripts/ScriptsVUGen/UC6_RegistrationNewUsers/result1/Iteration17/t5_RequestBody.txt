@@ -1,0 +1,2 @@
+"username=samus&password=metroid&passwordConfirm=metroid&firstName=Samus&lastName=Aran&address1"
+"=Space+Colony&address2=Galactic+Federation&register.x=58&register.y=3"

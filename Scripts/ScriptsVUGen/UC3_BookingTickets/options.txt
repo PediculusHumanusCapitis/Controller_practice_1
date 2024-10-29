@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\ArtZay\Documents\GitHub\VUGen_practice_1\ScriptsVUGen\UC3_BookingTickets
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc3_bookingtickets\\logfile.log
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc3_bookingtickets\\combined_UC3_BookingTickets.c
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc3_bookingtickets\\pre_cci.c

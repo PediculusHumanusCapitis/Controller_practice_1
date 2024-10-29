@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\ArtZay\Documents\GitHub\VUGen_practice_1\ScriptsVUGen\UC5_DeletingReservation
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc5_deletingreservation\\logfile.log
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc5_deletingreservation\\combined_UC5_DeletingReservation.c
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc5_deletingreservation\\pre_cci.c

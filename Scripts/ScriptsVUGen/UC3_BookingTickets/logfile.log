@@ -1,0 +1,5 @@
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc3_bookingtickets\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:45: warning: unrecognized character escape sequence `\.'
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc3_bookingtickets\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:47: warning: unrecognized character escape sequence `\='
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc3_bookingtickets\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:78: warning: missing return value
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc3_bookingtickets\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:111: warning: missing return value
+c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc3_bookingtickets\\pre_cci.c: ..\\..\\Transactions\\common_lib.h:131: warning: missing return value

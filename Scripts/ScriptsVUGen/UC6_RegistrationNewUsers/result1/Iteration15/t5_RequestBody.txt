@@ -1,0 +1,2 @@
+"username=cloud&password=soldier&passwordConfirm=soldier&firstName=Cloud&lastName=Strife&addres"
+"s1=Sector+7&address2=Midgar&register.x=58&register.y=3"

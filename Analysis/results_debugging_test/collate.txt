@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=F:\Git\Controller_practice_1\Controller\Scenario_Debugging_test_WebTours.lrs
+Completed=0

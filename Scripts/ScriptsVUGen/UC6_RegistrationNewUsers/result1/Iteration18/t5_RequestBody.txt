@@ -1,0 +1,2 @@
+"username=hermione&password=leviosa&passwordConfirm=leviosa&firstName=Hermione&lastName=Granger"
+"&address1=Hogsmeade&address2=Hogwarts&register.x=58&register.y=3"

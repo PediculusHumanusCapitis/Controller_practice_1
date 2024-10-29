@@ -1,0 +1,80 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP91",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1730040753420
+            },
+            {
+                "stepId": "STEP92",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t2.inf",
+                "time": 1730040753674
+            },
+            {
+                "stepId": "STEP93",
+                "stepName": "Url: header.html",
+                "infFile": "t3.inf",
+                "time": 1730040753760
+            },
+            {
+                "stepId": "STEP94",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t4.inf",
+                "time": 1730040754050
+            },
+            {
+                "stepId": "STEP95",
+                "stepName": "Image: Itinerary Button",
+                "infFile": "t5.inf",
+                "time": 1730040754549
+            },
+            {
+                "stepId": "STEP96",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t6.inf",
+                "time": 1730040754822
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "go_to_web_tours",
+                "rawStartTime": 1730040753138,
+                "rawEndTime": 1730040753760,
+                "thinkTime": 0.0,
+                "wastedTime": 0.16965055465698243
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1730040753762,
+                "rawEndTime": 1730040754057,
+                "thinkTime": 0.0,
+                "wastedTime": 0.060009002685546878
+            },
+            {
+                "transactionName": "go_to_itinerary",
+                "rawStartTime": 1730040754063,
+                "rawEndTime": 1730040754558,
+                "thinkTime": 0.0,
+                "wastedTime": 0.06882333755493164
+            },
+            {
+                "transactionName": "logout",
+                "rawStartTime": 1730040754573,
+                "rawEndTime": 1730040754823,
+                "thinkTime": 0.0,
+                "wastedTime": 0.06209230422973633
+            },
+            {
+                "transactionName": "UC4_ViewingTravelList",
+                "rawStartTime": 1730040753122,
+                "rawEndTime": 1730040754839,
+                "thinkTime": 0.0,
+                "wastedTime": 0.36057519912719729
+            }
+        ]
+    }
+]
